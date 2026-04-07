@@ -1,6 +1,6 @@
 <div align="center">
 <!-- HEADER -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=650&lines=I+build+products+that+move+needles+%F0%9F%8E%AF;Small+changes+%E2%80%94+massive+outcomes+%F0%9F%A6%8B;Finding+order+in+the+chaos+since+'89;Product+Engineer+from+Cali+%F0%9F%87%A8%F0%9F%87%B4" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=650&lines=I+build+products+that+move+needles+%F0%9F%8E%AF;Small+changes+%E2%80%94+massive+outcomes+%F0%9F%A6%8B;Finding+order+in+the+chaos;Product+Engineer+from+Cali+%F0%9F%87%A8%F0%9F%87%B4" alt="Typing SVG" /></a>
 <br/>
 ```yaml
 name: Alejandro Amorocho
@@ -82,6 +82,19 @@ When I'm not shipping code, you'll find me lost in a book 📚, fueling up on co
 
 ---
 
+### 🦋 The Butterfly Effect — Order in Chaos
+
+<div align="center">
+
+<!-- Lorenz Attractor: upload lorenz-attractor.svg to your repo and reference it like this -->
+<img src="./lorenz-attractor.svg" alt="Lorenz Attractor - The Butterfly Effect" width="800"/>
+
+<sub><i>The Lorenz attractor — a deterministic system where tiny differences in initial conditions lead to wildly different outcomes. This is how I think about product engineering.</i></sub>
+
+</div>
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -95,20 +108,6 @@ When I'm not shipping code, you'll find me lost in a book 📚, fueling up on co
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alejoamorocho&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=F97316&currStreakLabel=38BDF8" />
-
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alejoamorocho/alejoamorocho/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alejoamorocho/alejoamorocho/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/alejoamorocho/alejoamorocho/output/github-snake-dark.svg" />
-</picture>
 
 </div>
 
