@@ -44,6 +44,18 @@ When I'm not shipping code, you'll find me lost in a book 📚, fueling up on co
 
 ---
 
+<h3 align="center">🦋 The Butterfly Effect — Order in Chaos</h3>
+
+<p align="center">
+  <img src="./lorenz-attractor.gif" alt="Lorenz Attractor - The Butterfly Effect" width="800"/>
+</p>
+
+<p align="center">
+<sub><i>The Lorenz attractor — a deterministic system where tiny differences in initial conditions lead to wildly different outcomes. This is how I think about product engineering.</i></sub>
+</p>
+
+---
+
 <h3 align="center">⚡ Tech Arsenal</h3>
 
 <p align="center">
@@ -51,7 +63,7 @@ When I'm not shipping code, you'll find me lost in a book 📚, fueling up on co
 </p>
 
 <details>
-<summary align="center">🔍 The Full Picture</summary>
+<summary>🔍 The Full Picture</summary>
 
 <br/>
 
@@ -106,27 +118,18 @@ And the best systems? They find order where everyone else sees chaos.
 
 ---
 
-<h3 align="center">🦋 The Butterfly Effect — Order in Chaos</h3>
-
-<p align="center">
-  <img src="./lorenz-attractor.svg" alt="Lorenz Attractor - The Butterfly Effect" width="800"/>
-</p>
-
-<p align="center">
-<sub><i>The Lorenz attractor — a deterministic system where tiny differences in initial conditions lead to wildly different outcomes. This is how I think about product engineering.</i></sub>
-</p>
-
----
-
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alejoamorocho&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&ring_color=38BDF8" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejoamorocho&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alejoamorocho&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&ring_color=38BDF8" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alejoamorocho&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=F97316&currStreakLabel=38BDF8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejoamorocho&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=alejoamorocho&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=F97316&currStreakLabel=38BDF8" alt="GitHub Streak" />
 </p>
 
 ---
