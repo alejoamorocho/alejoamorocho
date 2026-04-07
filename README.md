@@ -1,6 +1,6 @@
 <div align="center">
 <!-- HEADER -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=650&lines=I+build+products+that+move+needles+%F0%9F%8E%AF;Small+changes+%E2%80%94+massive+outcomes+%F0%9F%A6%8B;Finding+order+in+the+chaos+since+'95;Product+Engineer+from+Cali+%F0%9F%87%A8%F0%9F%87%B4" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=650&lines=I+build+products+that+move+needles+%F0%9F%8E%AF;Small+changes+%E2%80%94+massive+outcomes+%F0%9F%A6%8B;Finding+order+in+the+chaos+since+'89;Product+Engineer+from+Cali+%F0%9F%87%A8%F0%9F%87%B4" alt="Typing SVG" /></a>
 <br/>
 ```yaml
 name: Alejandro Amorocho
